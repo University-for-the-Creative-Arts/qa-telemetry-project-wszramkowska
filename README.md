@@ -1,7 +1,7 @@
 # Commentary 
 ## Player Feedback Collection and Consent
 
-Player feedback for the Final Major Project (FMP) prototype was collected using an external Google Forms survey. Access to the survey was provided through a QR code displayed prominently in the game’s main menu, allowing players to easily submit feedback after completing a play session without interrupting gameplay. This method ensured accessibility while keeping feedback collection separate from the game’s core systems.
+I collect player feedback for my Final Major Project Prototype using an external Google Forms survey. Access to the survey was provided through a QR code displayed prominently in the game’s main menu, allowing players to easily submit feedback after completing a play session without interrupting gameplay. This method ensured accessibility while keeping feedback collection separate from the game’s core systems.
 
 The survey was divided into three structured sections. The first section focused on ethical considerations and test context. Players were asked to provide informed consent to participate in the playtest and to allow their responses to be used for academic purposes. If consent was not given, the survey automatically redirected the participant to an opt-out message, ensuring that no data was collected without permission. This section also recorded the version of the game tested and the platform used, enabling feedback to be accurately contextualised against specific builds and hardware setups.
 
