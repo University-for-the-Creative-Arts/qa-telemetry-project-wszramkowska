@@ -20,3 +20,19 @@ No in-engine telemetry or automated performance logging was implemented for this
 The collected survey data provides valuable insight for quality assurance and future development. Quantitative ratings help identify strengths and weaknesses in areas such as scare effectiveness, difficulty balancing, and environmental design. Qualitative responses offer actionable feedback on bugs, usability issues, and player expectations.
 
 This feedback can be used to prioritise bug fixing, refine level design, adjust difficulty curves, and improve overall presentation and polish. By combining structured ratings with detailed written comments, the testing process supports informed iteration and helps guide improvements for subsequent versions of the game.
+
+<br>
+
+### QR Code
+
+QR code is visible in main menu. I have made it large so players won't miss it, however the menu layout will be redesigned after the prototype phase. 
+
+![QR Code](assets/main-menu.png)
+
+### Survey and Responses
+
+![Survey](assets/docs-survey.gif)
+
+![Responses](assets/survey-responses.gif)
+
+
